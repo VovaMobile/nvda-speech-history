@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-09-03 16:24+0300\n"
+"PO-Revision-Date: 2023-09-03 16:30+0300\n"
+"Last-Translator: Heorhii <nvda.translation.uk@gmail.com>\n"
+"Language-Team: \n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ../../../..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: addon/globalPlugins/speechHistoryExplorer/__init__.py:46
+#: addon/globalPlugins/speechHistoryExplorer/__init__.py:153
+msgid "Speech History Explorer"
+msgstr "Переглядач історії мовлення"
+
+#: addon/globalPlugins/speechHistoryExplorer/__init__.py:65
+msgid ""
+"Copy the currently selected speech history Explorer item to the clipboard, "
+"which by default will be the most recently spoken text by NVDA."
+msgstr ""
+"Скопіювати поточний вибраний елемент історії мовлення в буфер обміну, який "
+"початково буде останнім промовленим текстом NVDA."
+
+#: addon/globalPlugins/speechHistoryExplorer/__init__.py:79
+msgid "Review the previous item in NVDA's speech history."
+msgstr "Переглянути попередній елемент в історії мовлення NVDA."
+
+#: addon/globalPlugins/speechHistoryExplorer/__init__.py:95
+msgid "Review the next item in NVDA's speech history."
+msgstr "Переглянути наступний елемент в історії мовлення NVDA."
+
+#: addon/globalPlugins/speechHistoryExplorer/__init__.py:111
+msgid "Opens a dialog showing all most recent items spoken by NVDA"
+msgstr ""
+"Відкриває діалог, в якому показано всі останні елементи, вимовлені NVDA"
+
+#: addon/globalPlugins/speechHistoryExplorer/__init__.py:158
+msgid ""
+"&Maximum number of history entries (requires NVDA restart to take effect)"
+msgstr ""
+"&Максимальна кількість записів у історії (для застосування потрібно "
+"перезапустити NVDA)"
+
+#: addon/globalPlugins/speechHistoryExplorer/__init__.py:161
+msgid "Trim whitespace from &start when copying text"
+msgstr "Обрізати нерозривні пробіли на &початку тексту під час копіювання"
+
+#: addon/globalPlugins/speechHistoryExplorer/__init__.py:164
+msgid "Trim whitespace from &end when copying text"
+msgstr "Обрізати нерозривні пробіли в &кінці тексту під час копіювання"
+
+#: addon/globalPlugins/speechHistoryExplorer/__init__.py:167
+msgid "Beep when performing actions"
+msgstr "Звуковий сигнал при виконанні дій"
+
+#: addon/globalPlugins/speechHistoryExplorer/__init__.py:170
+msgid "Beep left or right when no more older or newer elements are available"
+msgstr ""
+"Звуковий сигнал ліворуч або праворуч, коли старіших або новіших елементів "
+"більше немає"
+
+#: addon/globalPlugins/speechHistoryExplorer/__init__.py:208
+msgid "Speech history items"
+msgstr "Елементи історії мовлення"
+
+#: addon/globalPlugins/speechHistoryExplorer/__init__.py:232
+msgid "&Search"
+msgstr "&Пошук"
+
+#: addon/globalPlugins/speechHistoryExplorer/__init__.py:240
+msgid "History list"
+msgstr "Список історії"
+
+#: addon/globalPlugins/speechHistoryExplorer/__init__.py:266
+msgid "&Copy item"
+msgstr "&Копіювати елемент"
+
+#: addon/globalPlugins/speechHistoryExplorer/__init__.py:282
+msgid "Copy &all"
+msgstr "Копіювати &все"
+
+#: addon/globalPlugins/speechHistoryExplorer/__init__.py:286
+msgid "C&lean history"
+msgstr "О&чистити історію"
+
+#: addon/globalPlugins/speechHistoryExplorer/__init__.py:290
+msgid "&Refresh history"
+msgstr "&Оновити історію"
+
+#: addon/globalPlugins/speechHistoryExplorer/__init__.py:294
+msgid "C&lose"
+msgstr "За&крити"
+
+#: buildVars.py:17
+msgid "Speech history Explorer"
+msgstr "Переглядач історії мовлення"
+
+#: buildVars.py:20
+msgid ""
+"This add-on allows you to review the most recent strings spoken by NVDA, by "
+"default using NVDA+Shift+F11 and NVDA+Shift+F12. \n"
+"\tAdditionally, you can copy any spoken item to the clipboard by pressing "
+"NVDA+Control+F12 and shows a dialog of all stored spoken elements with "
+"NVDA+Alt+f12.\n"
+"\tUse the settings panel for the add-on to increase or decrease the maximum "
+"number of stored history entries, and decide whether whitespace should be "
+"trimmed from the start or end of text.\n"
+"\tUse NVDA's Input Gestures dialog to change the supplied keystrokes."
+msgstr ""
+"Цей додаток дозволяє переглянути останні рядки, які промовляла NVDA шляхом "
+"використання  комбінацій NVDA+Shift+F11 і NVDA+Shift+F12. \n"
+"\tКрім того, ви можете скопіювати будь-який промовлений елемент до буфера "
+"обміну, натиснувши NVDA+Control+F12, а також відкрити діалог всіх "
+"збережених промовлених елементів, натиснувши NVDA+Alt+f12.\n"
+"\tСкористайтеся панеллю налаштувань додатка, щоб збільшити або зменшити "
+"максимальну кількість збережених записів історії, а також вирішити, чи "
+"потрібно обрізати пробіли на початку або в кінці тексту.\n"
+"\tСкористайтеся діалогом «Жести вводу» в  NVDA, щоб змінити стандартні "
+"комбінації клавіш."
